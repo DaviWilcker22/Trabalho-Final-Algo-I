@@ -134,7 +134,7 @@ gcc main.c -o main.exe
 
 ---
 
-## 🐞 Bugs e Limitações Conhecidas
+## Bugs e Limitações Conhecidas
 
 |    Problema   |    Gravidade   |    Descrição   |
 |---------------|----------------|----------------|
