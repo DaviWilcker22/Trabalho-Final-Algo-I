@@ -146,7 +146,3 @@ gcc main.c -o main.exe
 ---
 
 
-## 📄 Licença
-
-Este projeto é de uso **educacional**.  
-Sinta-se livre para estudar, modificar e usar como base de aprendizado.
