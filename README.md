@@ -31,6 +31,7 @@ Inclui funcionalidades como:
 ```
 projeto_estoque/
 ├── 📄 main.c             # Arquivo principal com todas as funcionalidades
+├── 📁 screenshots/          # Imagens das telas do sistema (demonstração visual)
 └── 📄 README.md          # Documentação do projeto
 ```
 
@@ -40,8 +41,8 @@ projeto_estoque/
 
 ### 🔧 Windows
 ```bash
-gcc main.c -o estoque.exe
-.\estoque.exe
+gcc main.c -o main.exe
+.\main.exe
 ```
 ---
 
