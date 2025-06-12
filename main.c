@@ -134,8 +134,8 @@ void consultarProduto() {
             printf("\n---------- Produto Encontrado ----------\n");
             printf("Nome: %s\n", estoque[i].nome);
             printf("Categoria: %s\n", estoque[i].categoria);
-            printf("Preço de Venda: R$ %.2f\n", estoque[i].precoVenda);
-            printf("Preço de Custo: R$ %.2f\n", estoque[i].precoCusto);
+            printf("Preco de Venda: R$ %.2f\n", estoque[i].precoVenda);
+            printf("Preco de Custo: R$ %.2f\n", estoque[i].precoCusto);
             printf("Quantidade em Estoque: %d\n", estoque[i].quantidade);
             printf("Saidas Registradas: %d\n", estoque[i].saidas);
             return;
