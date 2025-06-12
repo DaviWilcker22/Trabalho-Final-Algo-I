@@ -29,7 +29,7 @@ Cadastro | Consulta | Edição | Entrada | Saída | Caixa | Relatórios
 ## Estrutura do Projeto
 
 ```
-projeto_estoque/
+Gestao_estoque/
 ├── 📄 main.c             # Arquivo principal com todas as funcionalidades
 ├── 📁 screenshots/          # Imagens das telas do sistema (demonstração visual)
 └── 📄 README.md          # Documentação do projeto
