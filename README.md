@@ -138,10 +138,10 @@ gcc main.c -o main.exe
 
 |    Problema   |    Gravidade   |    Descrição   |
 |---------------|----------------|----------------|
-| Limite de caracteres | Médio|Nomes e categorias aceitam até 49 caracteres. |
-| Sem salvamento de dados | Alto | Os dados se perdem ao fechar o programa. |
-| Portabilidade limitada | Médio | Funciona melhor no Windows que em Linux/macOS. |
-| Entrada com `scanf()` | Médio | Não verifica se o tipo digitado está correto. |
+| Limite no tamanho dos nomes| Médio  | Os campos de texto (nome, categoria) aceitam no máximo 49 caracteres devido à limitação do tipo char. |
+| Ausência de persistência   | Alto    | Todos os dados são perdidos ao encerrar o programa, pois não há gravação em arquivos. |
+| Portabilidade do sistema   | Médio  | O código foi testado e funciona melhor em ambientes Windows; pode exigir ajustes para Linux/macOS. |
+| Validação de entrada scanf() | Médio  | O programa não verifica se a entrada digitada é do tipo esperado, podendo causar falhas ou comportamento inesperado. |
 
 
 
