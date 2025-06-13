@@ -110,38 +110,55 @@ gcc main.c -o main.exe
 <div align="center">
 
 ### 🎛️ Menu Principal  
-<img src="./screenshots/Menu Principal.png" alt="Menu do Sistema" width="400">  
-<em>Interface principal com todas as opções disponíveis</em>
+<figure style="display: inline-block; text-align: center; margin: 20px;">
+  <img src="./screenshots/Menu Principal.png" alt="Menu do Sistema" width="400">
+  <figcaption><em>Interface principal com todas as opções disponíveis</em></figcaption>
+</figure>
 
-### 📝 Cadastro de Produto  
-<img src="./screenshots/Cadastrar Produto.png" alt="Tela de cadastro" width="400">  
-<em>Campos: código, nome, categoria, preços e quantidade</em>
+### 📝 Cadastro de Produto 
+<figure style="display: inline-block; text-align: center; margin: 20px;">
+  <img src="./screenshots/Cadastrar Produto.png" alt="Tela de cadastro" width="400">
+  <figcaption><em>Campos: código, nome, categoria, preços e quantidade</em></figcaption>
+</figure>
 
-### 🔍 Consulta de Produto  
-<img src="./screenshots/Consulta de Produto.png" alt="Consulta de produto" width="400">  
-<em>Exibe todas as informações cadastradas de um item</em>
+### 🔍 Consulta de Produto 
+<figure style="display: inline-block; text-align: center; margin: 20px;">
+  <img src="./screenshots/Consulta de Produto.png" alt="Consulta de produto" width="400">
+  <figcaption><em>Exibe todas as informações cadastradas de um item</em></figcaption>
+</figure>
 
-### ✏️ Edição de Produto  
-<img src="./screenshots/Edição de Produto.png" alt="Edição de produto" width="400">  
-<em>Permite alterar nome, categoria, preços e mais</em>
+### ✏️ Edição de Produto 
+<figure style="display: inline-block; text-align: center; margin: 20px;">
+  <img src="./screenshots/Edição de Produto.png" alt="Edição de produto" width="400">
+  <figcaption><em>Permite alterar nome, categoria, preços e mais</em></figcaption>
+</figure>
 
 ### ➕ Entrada em Estoque  
-<img src="./screenshots/Entrada de Estoque.png" alt="Entrada em estoque" width="400">  
-<em>Adiciona unidades ao inventário de produtos</em>
+<figure style="display: inline-block; text-align: center; margin: 20px;">
+  <img src="./screenshots/Entrada de Estoque.png" alt="Entrada em estoque" width="400">
+  <figcaption><em>Adiciona unidades ao inventário de produtos</em></figcaption>
+</figure>
 
-### ➖ Saída de Estoque  
-<img src="./screenshots/Saida de Estoque.png" alt="Saída de estoque" width="400">  
-<em>Remove unidades e registra vendas</em>
+### ➖ Saída de Estoque
+<figure style="display: inline-block; text-align: center; margin: 20px;">
+  <img src="./screenshots/Saida de Estoque.png" alt="Saída em estoque" width="400">
+  <figcaption><em>Remove unidades e registra vendas</em></figcaption>
+</figure>
 
 ### 💰 Consultar Caixa  
-<img src="./screenshots/Consultar Caixa.png" alt="Caixa" width="300">  
-<em>Exibe o saldo acumulado pelas vendas</em>
+<figure style="display: inline-block; text-align: center; margin: 20px;">
+  <img src="./screenshots/Consultar Caixa.png" alt="Caixa" width="300">
+  <figcaption><em>Exibe o saldo acumulado pelas vendas</em></figcaption>
+</figure>
 
-### 📊 Relatórios e Estatísticas  
-<img src="./screenshots/Relatorio de Estoque.png" alt="Relatório de estoque" width="500">  
-<em>Visão geral do inventário, valor total e lucro potencial</em>
+### 📊 Relatórios e Estatísticas 
+<figure style="display: inline-block; text-align: center; margin: 20px;">
+  <img src="./screenshots/Relatorio de Estoque.png" alt="Relatório de estoque" width="500">
+  <figcaption><em>Visão geral do inventário, valor total e lucro potencial</em></figcaption>
+</figure>
 
 </div>
+
 
 ---
 
