@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <stdlib.h>
 
 #define MAX_PRODUTOS 100
 #define ESTOQUE_BAIXO 3
