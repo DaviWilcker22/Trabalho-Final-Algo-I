@@ -111,6 +111,7 @@ gcc main.c -o main.exe
 
 ### 🎛️ Menu Principal  
 <figure>
+  <figure style="display: inline-block; text-align: center; margin: 20px;">
   <img src="./screenshots/Menu Principal.png" alt="Menu do Sistema" width="400">
   <figcaption><em>Interface principal com todas as opções disponíveis</em></figcaption>
 </figure>
