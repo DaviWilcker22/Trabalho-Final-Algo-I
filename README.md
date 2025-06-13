@@ -93,16 +93,15 @@ gcc main.c -o main.exe
 
 ### ➕ Entrada e ➖ Saída
 - `void entradaEstoque(...)`  
-- `void saidaEstoque(...)`
+- `void registrarSaida(...)`
 
 ### 💰 Caixa e 📊 Relatório
 - `void consultarCaixa(...)`  
-- `void relatorioEstoque(...)`
+- `void listarRelatorios(...)`
 
 ### ⚙️ Utilitárias
-- `void listarProdutos(...)`  
-- `void removerProduto(...)`  
 - `void menu(...)`
+- `int verificarCodigoDuplicado(int codigo)`
 
 ---
 
