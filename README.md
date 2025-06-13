@@ -110,10 +110,11 @@ gcc main.c -o main.exe
 <div align="center">
 
 ### 🎛️ Menu Principal  
-<figure style="display: inline-block; text-align: center; margin: 20px;">
+<figure>
   <img src="./screenshots/Menu Principal.png" alt="Menu do Sistema" width="400">
   <figcaption><em>Interface principal com todas as opções disponíveis</em></figcaption>
 </figure>
+
 
 ### 📝 Cadastro de Produto 
 <figure style="display: inline-block; text-align: center; margin: 20px;">
