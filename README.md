@@ -83,47 +83,47 @@ gcc main.c -o main.exe
 ## 🔧 Visão Geral das Funções
 
 ### 📌 Cadastro
-`void cadastrarProduto(...)`
+`void cadastrarProduto()`
 - **Argumentos:** nenhum
 - **Retorno:** nenhum
 - **Descrição:** Solicita dados do usuário para cadastrar um novo produto no estoque, realizando validações como código único e valores válidos.
 
 ### 🔍 Consulta
-`void consultarProduto(...)`
+`void consultarProduto()`
 - **Argumentos:** nenhum
 - **Retorno:** nenhum
 - **Descrição:** Solicita o código do produto e exibe todas as informações cadastradas caso o produto seja encontrado.
 
 ### ✏️ Edição
-`void editarProduto(...)`
+`void editarProduto()`
 - **Argumentos:** nenhum
 - **Retorno:** nenhum
 - **Descrição:** Permite alterar os dados (nome, categoria, preços) de um produto já cadastrado, após buscar pelo código.
 
 ### ➕ Entrada e ➖ Saída
-`void entradaEstoque(...)` 
+`void entradaEstoque()` 
 - **Argumentos:** nenhum
 - **Retorno:** nenhum
 - **Descrição:** Solicita código e quantidade para adicionar produtos ao estoque, atualizando a quantidade armazenada.
 
-`void registrarSaida(...)`
+`void registrarSaida()`
 - **Argumentos:** nenhum
 - **Retorno:** nenhum
 - **Descrição:** Registra a saída (venda/remoção) de produtos do estoque, atualizando a quantidade, as saídas registradas e o saldo do caixa. Alerta se o estoque ficar baixo.
 
 ### 💰 Caixa e 📊 Relatório
-`void consultarCaixa(...)`
+`void consultarCaixa()`
 - **Argumentos:** nenhum
 - **Retorno:** nenhum
 - **Descrição:** Exibe o saldo acumulado no caixa, que representa o total obtido pelas vendas.
 
-`void listarRelatorios(...)`
+`void listarRelatorios()`
 - **Argumentos:** nenhum
 - **Retorno:** nenhum
 - **Descrição:** Lista todos os produtos cadastrados com suas quantidades, calcula o valor total do estoque e o lucro potencial baseado no preço de custo e venda.
 
 ### ⚙️ Utilitárias
-`void menu(...)`
+`void menu()`
 - **Argumentos:** nenhum
 - **Retorno:** nenhum
 - **Descrição:** Exibe o menu principal do sistema e gerencia a navegação entre as funções por meio das opções do usuário.
@@ -135,9 +135,6 @@ gcc main.c -o main.exe
   - 1 se o código já existir no estoque
   - 0 caso contrário
 - **Descrição:** Verifica se um código de produto já está cadastrado, impedindo duplicatas.
-
-
-
 
 ---
 
